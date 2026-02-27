@@ -1,3 +1,6 @@
+## 📌 Overview
+This project demonstrates strong fundamentals in Python, OOPS, file handling, and modular programming practices aligned with real-world development workflows.
+
 # Library Management System
 
 A console-based Library Management System built using Python and Object-Oriented Programming principles.
